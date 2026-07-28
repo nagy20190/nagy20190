@@ -42,11 +42,13 @@ I'm currently seeking opportunities where I can contribute to building reliable,
 
 ## GitHub Statistics
 
-<p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagy20190&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagy20190&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="180"/>
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=nagy20190&theme=github-dark&hide_border=true)
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagy20190&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=nagy20190&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagy20190&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 ```
